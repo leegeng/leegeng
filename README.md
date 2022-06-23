@@ -28,7 +28,7 @@ Computer Science major
 
 Software engineer, December 2019 ~ Present
 
-- Develoed KarrotMarket Service Server-side → Especially flea market service
+- Developed KarrotMarket Service Server-side → Especially flea market service
 
 ## **Lunit Inc. , Seoul, South Korea**
 
