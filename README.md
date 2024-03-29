@@ -4,7 +4,7 @@
 
 Seoul, South Korea
 
-kyoungwon.lee86@gmail.com
+stark@hey.com
 
 ---
 
