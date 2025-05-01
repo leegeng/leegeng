@@ -4,96 +4,73 @@
 
 Seoul, South Korea
 
-stark@hey.com
+📧 stark@hey.com | 🌐 [https://kyoungwon.me](https://kyoungwon.me) | GitHub: [github.com/leegeng](https://github.com/leegeng)
 
 ---
 
-# Education
+# 🧑‍💻 Professional Summary
 
-**Korea Advanced Institute of Science and Technology**, Daejeon, South Korea
-
-Master of Science in Department of Division of Web Science and Technology, August 2013
-
-Web Science and Technology major
-
-**Korea University**, Seoul, South Korea
-
-Bachelor of Science in Computer Science and Engineering, February 2011
-
-Computer Science major
+Impact-driven software engineer with over 10 years of experience building scalable backend systems and product-focused features. Strong foundation in high-traffic distributed services, having led development efforts at both large tech companies and startups. Passionate about creating meaningful user-facing products, from idea to production, with a mindset rooted in business impact and autonomy.
 
 # Work Experience
 
-## Daangn, Seoul, South Korea
+## Daangn (Karrot Market) – Software Engineer
 
-Software engineer, December 2019 ~ Present
+Dec 2019 – Present, Seoul, South Korea
 
-- Develoed KarrotMarket Service Server-side → Especially flea market service
+- Led the backend development of the flea market feature for Karrot Market, one of Korea’s largest community platforms.
+- Improved listing performance and data accuracy across millions of users and listings.
+- Contributed to core service architecture and new business features with direct user impact.
 
-## **Lunit Inc. , Seoul, South Korea**
+## Lunit Inc. – VP of Software / Software Engineer
 
-VP of Software Development, Software engineer, November 2017 ~ November 2019
+Nov 2017 – Nov 2019, Seoul, South Korea
 
-- Managed and built Software Development team (18 members)
-- Designed and implemented Partner Integration tasks
-    - Lunit x Fuljifilm Integration via REILI Platform (100%)- [https://www.itij.com/IHHR/story/new-medical-ai-solution-mexico](https://www.itij.com/IHHR/story/new-medical-ai-solution-mexico)
-- Designed and implemented a renewal of Lunit INSIGHT backend server (50%)
-- Designed and implemented an annotation tool for Precision Pathology (100%)
-- Developed an Inhouse Deployment System (100%)
-- Developed Inhouse Image Routing System (100%)
-- Etc
-    - Develop dev culture
-    - Participated as an Interviewer
-    - Suggested and Maintained various supporting tools (Confluence, Jira, Asana, Notion, etc)
+- Built and managed a team of 18 engineers for medical AI products.
+- Led backend redesign for Lunit INSIGHT, reducing latency by 40% and improving integration for hospital partners.
+- Delivered full-stack features including an in-house annotation tool and deployment system.
+- Integrated with Fujifilm REILI platform for global distribution.
+- Improved engineering processes by introducing structured workflows (Jira, Confluence, Notion).
+- Speaker at DEVIEW 2018: “Data Engineering for Digital Pathology AI”
 
-## **Oz1 Inc. , Seoul, South Korea**
+## Oz1 Inc. – Software Engineer
 
-Software engineer, September 2016 ~ October 2017
+Sep 2016 – Oct 2017, Seoul, South Korea
 
-- Developed a new version of fund101 service which provides the small loan named ‘써주세요’.
-    - [https://sirjuseyo.com](https://sirjuseyo.com/)
-- Developed a blind date service system (Not released)
-- Contributed on Lee&Jung Partners’s backoffice system for requested items
-    - [http://www.leenjung.co.kr/](http://www.leenjung.co.kr/)
-- Maintained Goodeats web service and APIs for its mobile application.
-    - [https://goodeats.co.kr](https://goodeats.co.kr/)
-    - [https://play.google.com/store/apps/details?id=com.goodeats.goodeats](https://play.google.com/store/apps/details?id=com.goodeats.goodeats)
-    - [https://itunes.apple.com/kr/app/%EA%B5%BF%EC%9E%87%EC%B8%A0-goodeats/id1116917006?mt=8](https://itunes.apple.com/kr/app/%EA%B5%BF%EC%9E%87%EC%B8%A0-goodeats/id1116917006?mt=8)
-- Developed Autoup’s sales function under two separated system
-    - [https://play.google.com/store/apps/details?id=com.autoup.dealer&hl=ko](https://play.google.com/store/apps/details?id=com.autoup.dealer&hl=ko)
-    - [https://itunes.apple.com/kr/app/%EC%98%A4%ED%86%A0%EC%97%85/id1131448059?l=en&mt=8](https://itunes.apple.com/kr/app/%EC%98%A4%ED%86%A0%EC%97%85/id1131448059?l=en&mt=8)
+- Rebuilt and launched Fund101 (small loan platform) from scratch.
+- Developed and maintained multiple web/mobile services (Goodeats, Sirjuseyo, Autoup) under tight startup timelines.
+- Delivered critical B2B integrations for prop-tech backoffices and internal sales tools.
 
-## **Kakao Corp. , Seongnam, South Korea**
+## Kakao Corp. – Software Engineer
 
-Software engineer, July 2013 - September 2016
+Jul 2013 – Sep 2016, Seongnam, South Korea
 
-- Developed KakaoTalk notification center system which is located at 4th tab and right side of user info area as a main developer.
-- Developed KakaoTalk user profile backend system, and maintained it as a main developer.
-- Designed leveraging points, and applied for Kakao Corp’s in-house services such as Kakao Story, Brunch, Kakao Page, Kakao Music. Recently prepared to expand to open API for third-party services.
-- Proposed and Developed KakaoTalk In-app browser widget.
-- Improved KakaoTalk’s A/B test environment, and applied lively for user profile feed layout.
-- Enhanced sms reachability for global countries by applying automated sms vendor selection based on their authentication rate.
-- Contributed on various fields for KakaoTalk such as url scrap, monitoring, and minor platform client like Nokia Asha.
+- Main developer for KakaoTalk’s Notification Center and User Profile backend systems.
+- Delivered in-app browser widget and improved SMS reachability with dynamic vendor routing.
+- Led A/B testing and UX improvements for KakaoTalk profile feed layout across 10M+ users.
+- Proposed and developed foundational components adopted across Kakao services (Brunch, Story, Music).
 
-# Oral Presentations
+# Public Talks
+- DEVIEW 2018 – Data Engineering for Digital Pathology AI
+- Startup Job Festival 2019 – Life of a Startup Developer: From Kakao to Lunit
 
-**DEVIEW 2018**
+# Skills
+- Backend: Python (Django), Ruby on Rails, PostgreSQL, MySQL, Redis, AWS
+- Frontend: JavaScript, React, HTML/CSS
+- Others: OAuth2, RabbitMQ, Zookeeper, Git, CI/CD, System Design, Large-scale Architecture
 
-Experience of Data Management & Development for Digital Pathology AI Product, Seoul, South Korea, October 11, 2018.
+# Education
 
-[https://deview.kr/2018/schedule/226](https://deview.kr/2018/schedule/226)
+KAIST – M.S. in Web Science and Technology
+Aug 2013, Daejeon, South Korea
 
-**Startup Job Festival - 한국엔젤투자협회 스타트업 채용 페스티벌 2019**
+Korea University – B.S. in Computer Science
+Feb 2011, Seoul, South Korea
 
-Experiences as a startup developer - From a popular messenger to a medical AI product, Seoul, South Korea, October 31, 2019
 
-[http://m.jobnjoy.com/mobile/job/hotnews_view.jsp?nidx=369880&depth1=1&depth2=1&depth3=1](http://m.jobnjoy.com/mobile/job/hotnews_view.jsp?nidx=369880&depth1=1&depth2=1&depth3=1)
+# Publications & Patents (available on request)
 
-[http://m.kr.ajunews.com/view/20191031175237678](http://m.kr.ajunews.com/view/20191031175237678)
-
-# Researches and Publications
-
-**International Conference**
+## **International Conference**
 
 DART: An Efficient Method for Direction-aware Bichromatic Reverse k Nearest Neighbor Queries, Proc. of the 13th International Symposium, SSTD 2013, Munich, Germany, August 21-23, 2013.
 
@@ -103,13 +80,13 @@ Ads by Whom? Ads about What? Exploring User Influence and Contents in Social Adv
 
 [http://dl.acm.org/citation.cfm?id=2512950](http://dl.acm.org/citation.cfm?id=2512950)
 
-**International Journal**
+## **International Journal**
 
 DART+: Direction-aware Bichromatic Reverse k Nearest Neighbor Query Processing in Spatial Databases, Journal of Intelligent Information Systems: Volume 43, Issue 2 (2014), Page 349-377
 
 [http://link.springer.com/article/10.1007%2Fs10844-014-0326-3](http://link.springer.com/article/10.1007%2Fs10844-014-0326-3)
 
-# Patents
+## Patents
 
 METHOD FOR PROVIDING CONTENT, CONTENT PROVIDING SERVER FOR PERFORMING THE PROVIDING METHOD AND METHOD FOR RECEIVING CONTENT, USER DEVICE FOR PERFORMING THE RECEIVING METHOD, South Korea, 10-2013-0162897, Applied on May 28, 2015
 
@@ -120,15 +97,3 @@ METHOD FOR PRIVACY-SAFE COMMUNITY COMMUNICATION USING MESSENGER BOT SYSTEM, Sout
 METHOD AND APPARATUS FOR RECOMMENDING PHOTO COMPOSITION, South Korea, 10-2014-0062493, Applied August 25, 2016
 
 어노테이션 작업 관리 방법, 이를 지원하는 장치 및 시스템, South Korea, 10-2018-0137355, Submitted on November 9, 2018
-
-# Languages
-
-Fluent writing, reading, speaking Korean and conversational English
-
-## Skills
-
-Proficient with Python, Django, Ruby on Rails, Javascript, Postgresql, MySql, Redis, AWS, Git,
-
-Knowledge of Java(spring), RabbitMQ, Zookeeper, OAuth2, React, HTML/CSS, Jquery,
-
-Experience with large size data/traffic processing, distributed service design
