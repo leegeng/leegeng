@@ -18,43 +18,34 @@ Impact-driven software engineer with over 10 years of experience building scalab
 
 Dec 2019 – Present, Seoul, South Korea
 
-**🔍 Recommendation System Enhancement**
-- Developed and improved similar post/product recommendation systems based on pgvector and Pinecone
-- Introduced dual write approach for vector embeddings to handle embedding model transitions
-- Implemented category and region-based recommendation logic branching for global environments (Japan, North America)
+**🛍️ North American Market Feature Development Experience**
+- Introduced and scaled H3-based spatial indexing system for North American regions
+- Enhanced location-based UX through optimization of advertising/feed features targeting US and Canada
+- Implemented multi-country feature branching and parameter-based logic design for JP/CA/US markets
 
-**🛍️ Automated Link Listing Feature Development**
-- Implemented crawler and automated product registration for secondhand platforms (Mercari/Jmty)
-- Built banner settings and region management features through Admin pages for operational efficiency
-- Introduced listing reminder push notifications and early access features → contributed to improved user conversion rates
+**🧠 AI/LLM-based Recommendation and Search Feature Development**
+- Implemented vector embedding-based similar product/post recommendation using pgvector and Pinecone
+- Prototyped and experimented with LLM-based review generation and recommendation summary systems
+- Designed and experimented with personalized recommendation algorithms using category, location, and behavioral data
 
-**🖼️ Image Center Coordinate Extraction and Thumbnail Automation**
-- Implemented image center coordinate extraction and square cropping features to improve AI image recommendation quality
-- Completed end-to-end pipeline with integrated frontend/backend processing and comprehensive test coverage
+**💡 Leading Fast Experiment-driven Feature Improvements**
+- Designed Admin Viewer and experiment toggle features for recommendation experiments and feed A/B testing
+- Designed and iteratively improved automated listing features through Mercari and Jmty integrations
+- Led real-time metrics analysis and feature optimization based on user feedback
 
-**👤 Personalization and Potential Buyer Recommendations**
-- Built user behavior-based embeddings and designed potential buyer recommendation systems
-- Designed and operated A/B testing infrastructure for vector-based candidate generation and recommendation result evaluation
+**🌐 WebView and PC Web Experience**
+- Improved operational efficiency and UX through Admin interface and WebView-based tool development
+- Designed and maintained comprehensive web-based operational tools including banner management, feed settings, and listing control
 
-**🗺️ H3-based Geographic System Implementation for North America**
-- Applied Hexagonal Hierarchical Spatial Indexing (H3) to implement regional system for North American regions
-- Designed H3 data backfill and Rake tasks for multi-country deployment (JP/US/CA)
+**🔧 Full-stack Development with Rails Backend**
+- Developed comprehensive Buy & Sell marketplace API, crawlers, notifications, and recommendation backends using Ruby on Rails
+- Experienced in integrated operation of back-office and API servers with domain-driven design and test writing
+- Built CI/CD pipelines and automated rollback systems using GitHub Actions
 
-**🛠️ Admin Tools and Monitoring System Development**
-- Developed Admin dashboard (PgVector Viewer) for recommendation system experiment result visualization
-- Provided metrics screens based on daily indicators (clicks, conversion rates, etc.) to support business decision-making
-
-**🚀 CI/CD and Deployment Automation**
-- Designed and automated deployment pipelines based on GitHub Actions
-- Configured multi-stage deployment for alpha/prod environments with automated rollback
-
-**🌍 Global Service Expansion Support**
-- Implemented country/region-specific parameter handling and branching for Japanese and North American market expansion
-- Customized JP/CA/US-specific content and recommendation features
-
-**🧪 Experiment-driven Development Culture Participation**
-- Participated in designing and interpreting results from multiple experiments including ad recommendations, post recommendations, and potential buyer recommendations
-- Extensive experience in flexible handling of feed/notification logic considering experiment states and performance optimization
+**🔄 Iterative Improvement and Execution-focused Development Culture**
+- Repeated MVP → Experiment → Improvement cycles aligned with team's "build small, experiment fast" workflow
+- Participated in problem definition, data-driven performance reviews, and product direction decisions through cross-functional collaboration
+- Extensive experience leading feature structure design and launch from initial stages
 
 ## Lunit Inc. – VP of Software / Software Engineer
 
