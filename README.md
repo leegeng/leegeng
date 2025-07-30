@@ -102,7 +102,7 @@ Korea University – B.S. in Computer Science
 Feb 2011, Seoul, South Korea
 
 
-# Publications & Patents (available on request)
+# Publications & Patents
 
 ## **International Conference**
 

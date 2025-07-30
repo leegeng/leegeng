@@ -10,7 +10,7 @@ Seoul, South Korea
 
 # 🧑‍💻 Professional Summary
 
-Impact-driven software engineer with over 10 years of experience building scalable backend systems and product-focused features. Strong foundation in high-traffic distributed services, having led development efforts at both large tech companies and startups. Passionate about creating meaningful user-facing products, from idea to production, with a mindset rooted in business impact and autonomy.
+**Software engineer who led North American market expansion and AI-powered recommendation system development at Daangn (Karrot) for 5 years.** Specialized in implementing cutting-edge technologies including H3 spatial indexing, pgvector/Pinecone vector embeddings, and LLM-based recommendation systems for real user-facing products. Expert at transforming ideas into actual business impact through the "build small, experiment fast" agile culture, covering the full spectrum from MVP to large-scale services.
 
 # Work Experience
 
@@ -93,7 +93,7 @@ Korea University – B.S. in Computer Science
 Feb 2011, Seoul, South Korea
 
 
-# Publications & Patents (available on request)
+# Publications & Patents
 
 ## **International Conference**
 
